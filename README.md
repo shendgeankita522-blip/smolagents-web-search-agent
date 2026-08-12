@@ -73,5 +73,6 @@ smolagents-websearch-agent/
 │   └── smolagents.png
 │
 ├── .gitignore
+|──  requirements.txt
 ├── .env.example
 └── README.md
