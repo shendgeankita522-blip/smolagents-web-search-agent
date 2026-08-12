@@ -1,0 +1,1 @@
+# smolagents-web-search-agent
