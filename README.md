@@ -36,7 +36,7 @@ The SmolAgents notebook successfully initializes the agent and processes the use
 
 ### Output
 
-<img src="Output/smolagents.png" width="900"/>
+<img src="Output/Smolagents.png" width="900"/>
 
 ---
 
